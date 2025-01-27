@@ -5,7 +5,10 @@ Source code for our paper “**HDANet: Enhancing Underwater Salient Object Detec
 ## Method
 The HDANet addresses USOD challenges through developing targeted designs. It first integrates a task-driven underwater image enhancement module, named HydroDepthEnhanceModule (HDEM). Furthermore, we develop a physics-inspired three-way unsupervised learning strategy, leveraging the complementary effects of re-enhancement and re-degradation to improve HDEM’s generalization across diverse underwater image degradation scenarios. Additionally, we design a robust cross-attention (RCA) module to effectively fuse multimodal features while mitigating noise and blurring by exploiting channel and spatial cross-attention mechanisms. 
 
-![](fig1.png)
+<img src="fig1.png" alt="fig1" style="zoom:75%;" />
+
+
+
 ## Result
 
 (1) **Trained models** are available [BaiduNetdisk](https://pan.baidu.com/s/1VXyNHxy5Iy5GYYBCh_2thg) **fetch code**: [usod]  &&& [Googledriven](https://drive.google.com/file/d/1x_UhY7Ik6rFqkk4f5wNG97_CfC_DD7JZ/view?usp=drive_link) 
