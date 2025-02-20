@@ -36,7 +36,7 @@ cd USOD-HDANet
 1. Download the datasets from either Baidu Netdisk or Google Drive:
    - USOD10K dataset:  Baidu Netdisk: [USOD10K](https://pan.baidu.com/s/1edg2B9HjnHdEpmwnUOT0-w) **fetch code**: [good]  &&&  Google drive: [USOD10K](https://drive.google.com/file/d/1PH0PwKchXnkWwtAwbhNSW4utMCp5zer8/view?usp=sharing).
    
-     USOD dataset:[USOD](https://irvlab.cs.umn.edu/resources/usod-dataset)
+   - USOD dataset:Baidu Netdisk: [USOD](https://pan.baidu.com/s/1ZVkirn5pjuZoBRkShght3A?pwd=USOD) **fetch code**: [USOD]  &&&  Google drive: [USOD](https://drive.google.com/file/d/1aEaLMeU3c7zaagdo6NtWr462VXyBe79D/view?usp=sharing).
    
 
 Place the test part of downloaded datasets in the datasets folders:
@@ -52,9 +52,6 @@ Download the pre-trained HDANet model weights from Baidu Netdisk:
 -  [BaiduNetdisk](https://pan.baidu.com/s/1nndmH18X_3c_PjJXLgSysw?pwd=USOD) **fetch code**: [USOD]  &&& [Googledriven](https://drive.google.com/drive/folders/1kDGGTYmwsDH3RCFBUFBJZDYUxpPpu4G4?usp=drive_link) 
 
 Place the downloaded checkpoint file in the `checkpoints` folder:
-```bash
-mkdir -p checkpoints/HDANet && unzip hda_net_weights.zip -d checkpoints/HDANet
-```
 
 ### Step 4: Run Inference and Evaluation
 1. Generate saliency maps using the test script:
