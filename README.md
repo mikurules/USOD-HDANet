@@ -19,8 +19,7 @@ The HDANet addresses USOD challenges through developing targeted designs. It fir
 
 USOD10K dataset:  Baidu Netdisk: [USOD10K](https://pan.baidu.com/s/1edg2B9HjnHdEpmwnUOT0-w) **fetch code**: [good]  &&&  Google drive: [USOD10K](https://drive.google.com/file/d/1PH0PwKchXnkWwtAwbhNSW4utMCp5zer8/view?usp=sharing).
 
-USOD dataset:[USOD](https://irvlab.cs.umn.edu/resources/usod-dataset)
-
+USOD dataset: Baidu Netdisk: [USOD](https://pan.baidu.com/s/1ZVkirn5pjuZoBRkShght3A?pwd=USOD) **fetch code**: [USOD]  &&&  Google drive: [USOD](https://drive.google.com/file/d/1aEaLMeU3c7zaagdo6NtWr462VXyBe79D/view?usp=sharing).
 
 
 ## Getting Started with Inference
