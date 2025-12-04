@@ -70,6 +70,4 @@ After running these commands, you will find the predicted saliency maps in the `
 - **Predicted Saliency Maps**: Generated maps will be saved in the `results` directory.
 - **Evaluation Metrics**: Standard metrics such as MAE, F-measure, etc., will be displayed to evaluate the performance of HDANet on your dataset.
 
-## More code
-More code is currently being organized and will be released here soon.
 
